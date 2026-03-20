@@ -1,6 +1,6 @@
 # Hugging Face Agents Course
 
-This repository documents my progress through the Hugging Face Agents Course. It contains scripts, experiments, and tools built using the `smolagents` library.
+This repository documents my progress through the Hugging Face Agents Course. It contains scripts, experiments, and tools built using the `smolagents`, `LangChain` and `Llamaindex` libraries.
 
 ## Current Status
 - Local LLM Testing (Ollama + Qwen2 7B)
